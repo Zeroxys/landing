@@ -1,0 +1,24 @@
+{
+  "name": "landing",
+  "version": "0.1.0",
+  "description": "my landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <miguelzavalac@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.11",
+    "css-mqpacker": "^6.0.0",
+    "csswring": "^6.0.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "postcss-cssnext": "^2.11.0",
+    "postcss-import": "^10.0.0",
+    "postcss-mixins": "^6.0.0",
+    "postcss-responsive-type": "^0.5.1"
+  }
+}

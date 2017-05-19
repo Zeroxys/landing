@@ -1,0 +1,10 @@
+:root{
+  --miColor:yellow;
+}
+
+/*Aqui va el body*/
+
+body{
+  background-color:var(--miColor);
+  font-size:responsive 20px 80px;
+}

@@ -1,0 +1,2 @@
+body{background-color:yellow;font-size:calc(20px + 60 * ((100vw - 420px) / 860))}@media screen and (min-width:1280px){body{font-size:80px}}@media screen and (max-width:420px){body{font-size:20px}}
+/*# sourceMappingURL=index.css.map */
